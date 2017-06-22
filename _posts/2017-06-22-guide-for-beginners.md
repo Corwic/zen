@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Krakow guide for beginners
 published: true
 ---
 
