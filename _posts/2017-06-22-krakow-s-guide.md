@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 [Польско-русский словарь](http://pl.bab.la/slownik/polski-rosyjski/)
