@@ -3,19 +3,18 @@ published: true
 ---
 
 _Короткое руководство для новичков о том где купить вещи первой необходимости, найти развлечения и способы изучить язык._
+ОБМЕННИК | ЛЕКАРСТВА | ПРОДУКТЫ | КОНЦЕРТЫ | Послушать/посмотреть/почитать на польском | БЕЗВИЗ
 
 [Польско-русский словарь](http://pl.bab.la/slownik/polski-rosyjski/)
 
 
-##[Обменник](https://cinkciarz.pl/)## — _Антон В_
+## [Обменник](https://cinkciarz.pl/)## — _Антон В_
 
 
+## [Лекарства](Leki24 pl)##
 
 
-##[Лекарства](Leki24 pl)##
-
-
-##Продукты##
+## Продукты
 
 __Auchan__
 : орехи, каши, крупы, пром товары, бытовая химия.
@@ -40,7 +39,7 @@ _РЫБА_
 : мало везде, бывает раз в неделю и разбирают за день-два. В Лидле и Бедронке можно найти иногда.
 
 
-##Концерты
+## Концерты
 — _Антон В_
 Bilety zakupione przez inne strony np. Viagogo, StubHub, AleBilet, Allegro, Amazon i inne nie są autoryzowanymi punktami sprzedaży.
 Bezpieczeństwo zakupu biletów na koncerty organizowane przez Live Nation gwarantują jedynie następujące strony:
@@ -50,7 +49,7 @@ Bezpieczeństwo zakupu biletów na koncerty organizowane przez Live Nation gwara
 4. www.Eventim.pl
 
 
-##Что послушать, посмотреть, почитать на польском 
+## Что послушать, посмотреть, почитать на польском 
 [Телепрограмма о всяком:](http://www.tvn24.pl/drugie-sniadanie-mistrzow,40,m)
 
 Книжки: 
@@ -68,7 +67,7 @@ Bezpieczeństwo zakupu biletów na koncerty organizowane przez Live Nation gwara
 ··*Самое католическое называется [радио Мария](http://www.radiomaryja.pl/) _Ника_
 
 
-##Безвиз
+## Безвиз
 
 - Как оформить биометрический загранпаспорт: https://goo.gl/EZfRAa
 - Правила въезда в ЕС: https://goo.gl/ABqaZK
