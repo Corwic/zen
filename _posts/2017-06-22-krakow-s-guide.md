@@ -1,0 +1,74 @@
+---
+published: false
+---
+
+[Польско-русский словарь](http://pl.bab.la/slownik/polski-rosyjski/)
+
+
+##[Обменник](https://cinkciarz.pl/) — _Антон В_
+
+
+##[Лекарства](Leki24 pl)
+
+
+##Продукты
+
+__Auchan__
+: орехи, каши, крупы, пром товары, бытовая химия.
+__Lidl__
+: молочка, рыба, когда там бывает.
+__Biedronka__
+: овощи, бытовая химия, рыба, когда там бывает.
+__TESCO__
+: мясо, пром товары.
+овощи дорогие, смысла особого нет.
+__Carrefour__маленький
+: Малые магазины имеют дешевые овощи на борщ (буряк, капуста, лук). Другие овощи - перец, броколи, помидоры - там дороже чем в Бедронке. 
+: похож на Теско и Ашан, только дороже чем в теско и Ашане. Ашан из этих трех больгих маназов самый дешевый.
+__Żabka__
+: типа наших ларьков, можно бысро купить водички, хлеба, шоколад, пиво. Но дороже. Там почти никогда не покупаем
+
+_ОВОЩИ_
+: нам выбор лучше кажеться в Бедронке, но в Лидле тоже бываю неплохой выбор (зависит от недели). Поэтому, попробуйте покупать и там, и там.
+_МОЛОЧКА_
+: Нам вроде больше нравится в Лидле, но в Бедронке тоже бывает неплохо, зависит от недели. Попробуйте и там, и там.
+_РЫБА_
+: мало везде, бывает раз в неделю и разбирают за день-два. В Лидле и Бедронке можно найти иногда.
+
+
+##Концерты
+— _Антон В_
+Bilety zakupione przez inne strony np. Viagogo, StubHub, AleBilet, Allegro, Amazon i inne nie są autoryzowanymi punktami sprzedaży.
+Bezpieczeństwo zakupu biletów na koncerty organizowane przez Live Nation gwarantują jedynie następujące strony:
+1. www.LiveNation.pl 
+2. www.Ticketmaster.pl 
+3. www.Ticketpro.pl
+4. www.Eventim.pl
+
+
+##Что послушать, посмотреть, почитать на польском 
+[Телепрограмма о всяком:](http://www.tvn24.pl/drugie-sniadanie-mistrzow,40,m)
+
+Книжки: 
+··*[(ее можно одолжить в библиотеке):](http://www.wydawnictwoliterackie.pl/ksiazka/2422/Morfina---Szczepan-Twardoch) — _Ника_
+··*Ведьмак
+··*Лем
+
+Печатная пресса: 
+··*[Wyborcza](http://wyborcza.pl/0,0.html?disableRedirects=true)
+··*[Tygodnik Powszechny](https://www.tygodnikpowszechny.pl/)
+— Ника
+
+Радио. 
+··*Radio Polska—Trójka—[Czas-niezwykly](http://www.polskieradio.pl/9,Trojka/5527,Czas-niezwykly) — гости рассказывают историю своей жизни. — _Антон Ч_
+··*Самое католическое называется [радио Мария](http://www.radiomaryja.pl/) _Ника_
+
+
+##Безвиз
+
+- Как оформить биометрический загранпаспорт: https://goo.gl/EZfRAa
+- Правила въезда в ЕС: https://goo.gl/ABqaZK
+- Как ехать в Европу с детьми: https://goo.gl/kKNmyD
+- В какие европейские города можно будет быстро доехать поездом: https://goo.gl/SNWQkF
+- Сколько денег нужно иметь, чтобы въехать в ЕС: требования каждой страны: https://goo.gl/i8ThGs
+- Таможенные правила, которые стоит знать, пересекая границу с ЕС: https://goo.gl/uS8bUh
