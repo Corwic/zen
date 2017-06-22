@@ -10,13 +10,11 @@ _Короткое руководство для новичков о том гд�
 
 
 [Польско-русский словарь](http://pl.bab.la/slownik/polski-rosyjski/)
+— _Антон Ч_
 
-
-## [Обменник](https://cinkciarz.pl/)
+[Обменник](https://cinkciarz.pl/)
+[Лекарства](Leki24.pl)
 — _Антон В_
-
-
-## [Лекарства](Leki24 pl)
 
 
 ## Продукты
@@ -49,17 +47,17 @@ _МОЛОЧКА_
 
 _РЫБА_
 : мало везде, бывает раз в неделю и разбирают за день-два. В Лидле и Бедронке можно найти иногда.
-
+- _Ильич_
 
 ## Концерты
-— _Антон В_
+
 Bilety zakupione przez inne strony np. Viagogo, StubHub, AleBilet, Allegro, Amazon i inne nie są autoryzowanymi punktami sprzedaży.
 Bezpieczeństwo zakupu biletów na koncerty organizowane przez Live Nation gwarantują jedynie następujące strony:
 1. www.LiveNation.pl 
 2. www.Ticketmaster.pl 
 3. www.Ticketpro.pl
 4. www.Eventim.pl
-
+— _Антон В_
 
 ## Что послушать, посмотреть, почитать на польском 
 [Телепрограмма о всяком:](http://www.tvn24.pl/drugie-sniadanie-mistrzow,40,m)
