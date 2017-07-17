@@ -4,14 +4,14 @@ title: zen
 published: true
 ---
 
-  ---
-  layout: post
-  title: zen
-  published: true
-  ---
+---
+layout: post
+title: zen
+published: true
+---
   
   
-  ## Chapter 1
+## Chapter 1
   
   
   
